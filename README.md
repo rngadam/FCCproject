@@ -22,3 +22,6 @@ Hello World!
 
 
 
+FCC project ideas so far for our meeting:
+
+- Create a collab project: Web app for movies? Web app for social media? Submit your ideas.

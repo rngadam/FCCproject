@@ -1,15 +1,24 @@
 # FCCproject
-FCC group project
+FCC group project URL: https://github.com/buckinrich/FCCproject/
+
 Hello World!
 
-1) Create a Github account, download Github desktop
-2) Download the repository "FCC project" onto your desktop or in a file path of your choice via clone repository
+1) Create a Github account.
 
-3) Download Gitbash, unless you want to use cmd line to change drive for the repository and you know how
+2) Download Github desktop: Just watch this video if you are confused. https://www.youtube.com/watch?v=kFix7UDJ7LA
 
-4) Right click on FCC project folder and open it with Gitbash
+3) Set up a local repository in Github desktop (Just whereever you are keeping your files). Then config username, password etc etc. so it logs you into your Github account
 
-Then type in git init into Gitbash
-You should be set up now
+4) Feel free to set up your own files in your local repository: index.html for example, and submit it to github with "push"
+
+**please submit your files committed to README only for now not master** Select Readme branch under tabs in Github
+
+= Git words made simple =
+
+- Repository: Just a word for shared project
+- Pull request: Your request to download the repository
+- Clone: Copying the repository
+- Push: submitting your file to the url
+
 
 

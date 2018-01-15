@@ -11,7 +11,7 @@ Hello World!
 
 4) Feel free to set up your own files in your local repository: index.html for example, and submit it to github with "push"
 
-**please submit your files committed to README only for now not master** Select Readme branch under tabs in Github
+**please submit your files committed to README only for now not master** Select Readme under branch, Not Master, under tabs in Github
 
 = Git words made simple =
 
